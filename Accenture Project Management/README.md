@@ -1,6 +1,6 @@
 
 ## Four different project management approaches Summed Up
-*Full definitions of each style can be found [here](https://github.com/Kunal-Kokate/Accenture-Project-Management/blob/main/Accenture%20Project%20Management%20Approaches.pdf)*
+*Full definitions of each style can be found [here](https://github.com/Kunal-Kokate/Forage/blob/main/Accenture%20Project%20Management/Accenture%20Project%20Management%20Approaches.pdf)*
 
 **1. Plan Driven Project Management**
 - This traditional method involves planning all project details—scope, costs, schedule, and resources—thoroughly at the start. The goal is to minimize changes and errors by having a clear plan. It's important to control costs, resource use, schedules, quality, and meet stakeholder expectations. 
@@ -17,7 +17,7 @@
 
 ## Next Steps
 - Your manager has sent you through some client projects and asked you to help them determine which project management approach is most appropriate.
-- Open the [Which Project Mangement](https://github.com/Kunal-Kokate/Accenture-Project-Management/blob/main/Which%20Project%20Management.pdf) to read through the client scenarios and choose which project management works with each scenerario. 
+- Open the [Which Project Mangement](https://github.com/Kunal-Kokate/Forage/blob/main/Accenture%20Project%20Management/Which%20Project%20Management.pdf) to read through the client scenarios and choose which project management works with each scenerario. 
 
 ## **Only look at this if you have done the scenarios yourself. These are my predicitions for which project management to use for each scenario**
 1. Social Media Marketing Campaign Project - Agile Project Management
